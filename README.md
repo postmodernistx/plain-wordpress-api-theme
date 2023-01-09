@@ -12,3 +12,5 @@ Put this in your themes folder:
 `path-to-wordpress-installation/wp-content/themes/plain-api-wordpress-theme`
 
 where the last part, `plain-api-wordpress-theme`, is the name of the theme folder, where all of the files in this project should be located (index.php, functions.php, screenshot.png, style.css).
+
+Then go to WordPress admin view -> Appearance -> Themes and activate the theme.
